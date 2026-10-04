@@ -85,6 +85,15 @@ streamlit run app.py
 - **Model comparison.** Logistic Regression, Random Forest or XGBoost, plus cross-validation and hyperparameter tuning, could improve results.
 - **Small, specific dataset.** 768 patients from one population, so results may not generalize to other groups.
 
+(Web pages server)
+https://share.streamlit.io/
+
+(FastApi server)
+https://dashboard.render.com/web/srv-dasjdv59fdbs73dnj0eg
+
+(Api)
+https://diabetes-api-h06w.onrender.com/predict
+
 ## Author
 
 **Arshavir Voskanyan**
